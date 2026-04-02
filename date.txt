@@ -1,3 +1,4 @@
 Fiserul este pentru lucrul la un repozitor comun
 Modificati in randul trei numele sa fie al DVS
-Nume Prenume 
+Modificare din prima ramura
+Eremeev David 
