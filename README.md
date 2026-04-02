@@ -1,12 +1,12 @@
 # Repo_lab_2
-Masterat USARB 2025
+Masterat UPSC 2026
 
 Acest repozitoriu este creat pentru efectuarea lucrării de laborator 2
 
 Sarcini:
 1. Clonează repozitoriul Repo_lab_2
 2. Crează două ramuri („First” și „Second”) pornind din ramura principală
-3. Realizează modificări conflictuale în fișier, pe aceleași linii
+3. Realizează modificări conflictuale în fișier, pe aceleași linii(3)
 •	Pe ramura first:
   o	Deschide fișierul file.txt.
   o	Adaugă linia („Modificare din prima ramura”).
